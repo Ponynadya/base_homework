@@ -2,17 +2,17 @@
 	"id": 123,
 	"name": "Телевизор",
 	"package_params": {
-		"width": 5,
+		"width": 50,
 		"height": 10
 	},
 	"location_and_quantity": [
 		{
-			"location": "Магазин на Ленина",
-			"amount": 7
+			"location": "Magazin na Lenina",
+			"amount": 4
 		},
 		{
-			"location": "Магазин в центре",
-			"amount": 3
+			"location": "Magazin na Petrova",
+			"amount": 3321
 		}
 	]
 }
